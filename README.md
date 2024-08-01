@@ -1,5 +1,5 @@
 # Customer-Segmentation
-![image](https://github.com/MarkPhamm/Python-Segment-Shopping-Customers/assets/99457952/dbb73f27-a345-4c37-974c-2104d0ce1985)
+![image](https://github.com/jessicabui0110/Customer-Segmentation/cus_seg_bg)
 
 ## Introduction
 
