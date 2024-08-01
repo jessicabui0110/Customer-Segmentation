@@ -44,7 +44,7 @@ The following approach was taken:
   - Validated clustering performance
   - Assessed cluster distinctiveness
 
-![image](https://github.com/MarkPhamm/Python-Segment-Shopping-Customers/assets/99457952/1328661f-b6f5-4f13-aa48-f479fbc9aee9)
+![image](https://github.com/jessicabui0110/Customer-Segmentation/blob/bca55e042ad1b56f1acbaeef8405cab22adc54df/cus_seg_viz.png)
 
 ## Key Learning
 
