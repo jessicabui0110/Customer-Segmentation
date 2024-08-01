@@ -1,5 +1,5 @@
 # Customer-Segmentation
-![image](https://github.com/jessicabui0110/Customer-Segmentation/cus_seg_bg)
+![image](https://github.com/jessicabui0110/Customer-Segmentation/cus_seg_bg.png)
 
 ## Introduction
 
